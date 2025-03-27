@@ -1,2 +1,2 @@
 # Survey_Form
-Learning to integrate backend and database with frontend
+In this project I have created a survey form which takes input from user at the frontend and sends the data to the backend where it is then stored in the MySQL database. The frontend has been built using HTML, CSS, and JavaScript. Whereas, the backend is built using Node.js and Express.js. The data is stored into the MySQL database. We can check the all the information collected from the user into the database.
