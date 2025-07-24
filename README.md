@@ -1,2 +1,25 @@
-# Survey_Form
-In this project I have created a survey form which takes input from user at the frontend and sends the data to the backend where it is then stored in the MySQL database. The frontend has been built using HTML, CSS, and JavaScript. Whereas, the backend is built using Node.js and Express.js. The data is stored into the MySQL database. We can check the all the information collected from the user into the database.
+# 📋 Survey Form - Full Stack Project built for Practise
+
+An interactive **Survey Form** web application built with **HTML**, **CSS**, and **JavaScript** on the frontend, and powered by **Node.js**, **Express.js**, and **MySQL** on the backend. Users can submit responses through a visually appealing interface, and all form data is stored securely in the MySQL database.
+
+---
+
+## 🚀 Features
+
+- ✍️ Dynamic frontend form for user inputs  
+- 🔗 RESTful backend with form submission routing  
+- 🗄️ Stores all survey responses into a MySQL database  
+- 📊 Accessible backend structure for viewing collected data  
+- 📱 Responsive design and clean UI/UX  
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer       | Technologies Used                |
+|-------------|----------------------------------|
+| Frontend    | HTML, CSS, JavaScript            |
+| Backend     | Node.js, Express.js              |
+| Database    | MySQL                            |
+| Tools       | VS Code, Postman, GitHub         |
+
