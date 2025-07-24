@@ -1,4 +1,4 @@
-# 📋 Survey Form - Full Stack Project built for Practise
+# 📋 Survey Form - A Simple Full Stack Project
 
 An interactive **Survey Form** web application built with **HTML**, **CSS**, and **JavaScript** on the frontend, and powered by **Node.js**, **Express.js**, and **MySQL** on the backend. Users can submit responses through a visually appealing interface, and all form data is stored securely in the MySQL database.
 
